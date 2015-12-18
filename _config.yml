@@ -1,7 +1,7 @@
 name: The Common Ground Sophisticate
 favicon: null
-layout_spectrum: 0.5707954661920667
-typography_spectrum: 0.13824502378702164
+layout_spectrum: 0.75546
+typography_spectrum: 0.76033
 title: The Common Ground Sophisticate
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.3032544692978263
-  lightness: 0.3837994246277958
+    - '#ffffff'
+    - '#01010d'
+    - '#928575'
+    - '#fb4193'
+    - '#c5bfb4'
+  brandStrength: 0.6875
+  lightness: 0.25
   saturation: 0.062094346387311816
   rhythmicContrast: 0.6412758557125926
 purpose: []
