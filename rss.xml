@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Common Ground Sophisticate]]></title>
         <description><![CDATA[The Common Ground Sophisticate]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-common-ground-sophisticate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 19:55:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Dec 2015 19:56:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-common-ground-sophisticate/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Common Ground Sophisticate]]></title>
             <description><![CDATA[<article><h1>The Common Ground Sophisticate</h1><p>The Common Ground Sophisticate is a digital lifestyle magazine for the every girl featuring articles and products that relate to our female common ground, which include: health and fitness, fashion and beauty, and home and work.</p></article>]]></description>
-            <link>undefinedthe-common-ground-sophisticate/index.html</link>
+            <link>https://thegrid.ai/the-common-ground-sophisticate/the-common-ground-sophisticate/index.html</link>
             <guid isPermaLink="false">de9f224e-fa58-46bf-9312-076f08734b3f</guid>
-            <pubDate>Fri, 18 Dec 2015 19:55:51 GMT</pubDate>
+            <pubDate>Fri, 18 Dec 2015 19:56:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
