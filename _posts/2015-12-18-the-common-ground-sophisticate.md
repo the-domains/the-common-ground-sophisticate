@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: A digital lifestyle magazine for all women.
-datePublished: '2015-12-18T19:55:51.148Z'
-dateModified: '2015-12-18T19:55:36.356Z'
+datePublished: '2015-12-18T19:56:04.625Z'
+dateModified: '2015-12-18T19:55:58.405Z'
 title: The Common Ground Sophisticate
 author: []
 authors: []
