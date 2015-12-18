@@ -1,0 +1,28 @@
+name: The Common Ground Sophisticate
+favicon: null
+layout_spectrum: 0.5707954661920667
+typography_spectrum: 0.13824502378702164
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.3032544692978263
+  lightness: 0.3837994246277958
+  saturation: 0.062094346387311816
+  rhythmicContrast: 0.6412758557125926
+purpose: []
